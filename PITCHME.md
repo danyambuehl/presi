@@ -72,14 +72,17 @@ Unternehmen
 -->
 ---
 
+<!-- _backgroundColor: "#123" -->
+<!-- _color: "#fff" -->
+
 ## Lean Projekt management
 
 ![bg right 80%](https://www.rupp-spritzguss.de/wp-content/uploads/2019/11/5S-Grafik-1024x683.jpg)
 
 
-- Mehrwert für den Kunden schaffen
+    Mehrwert für den Kunden schaffen
 
-- Verschwendung minimieren.
+    Verschwendung minimieren.
 
 <!-- 
 Was sind die Anforderungen des Kunden bezüglich Support?
@@ -121,6 +124,7 @@ Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt 
 ---
 
 ![w:32 h:32](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
+![bg](https://example.com/background.jpg)
 
 ## [Toyota 3M Model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
 
