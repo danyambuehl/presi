@@ -29,7 +29,7 @@ By: Dany, Roger, Christian
 
 PollEv.com/ambuehldany762
 
-![bg right 60%](https://images.computerwoche.de/bdb/1886339/890x.webp)
+![bg right 80%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
 <!-- 
 -schlank
@@ -57,7 +57,6 @@ Lean Management ist eine Unternehmensphilosophie!
 - Sicht des Unternehmens
 
 <!-- 
-
 Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
 
 Erfüllung des Kundenwunsches
@@ -74,23 +73,46 @@ schlanke Prozesse
 
 ##### Lean Projekt management
 
-![bg right 60%](https://www.rupp-spritzguss.de/wp-content/uploads/2019/11/5S-Grafik-1024x683.jpg)
+![bg right 80%](https://www.rupp-spritzguss.de/wp-content/uploads/2019/11/5S-Grafik-1024x683.jpg)
 
 
-#### Mehrwert für den Kunden schaffen
+- Mehrwert für den Kunden schaffen
 
-#### Verschwendung minimieren.
+- Verschwendung minimieren.
 
+<!-- 
+Was sind die Anforderungen des Kunden bezüglich Support?
+- Support gemäss Kundenvereinbarung.
+Wie ist der Supportprozess heute, wie soll dieser in Zukunft aussehen?
+- Eingangskanäle reduziert (Postfächer).
+Massnahmen definieren, um den Soll Zustand zu erreichen
+- Eingangkanäle reduzieren
+Einzelen Steps auf Kunden ausgerichtet
+- Automatisierung
+KVP
+- Team Regeln für Postfach handling
+- Unnötige Emails reduziert
+- Aufgaben automatisiert
+- Dokumentation intern aufgebaut
+- Templates erstellt
+-->
 
 ---
 
 ##### 
 ## **[Toyota](https://de.wikipedia.org/wiki/Toyota-Produktionssystem)**
-![bg right 60%](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativebloq.com%2Fnews%2Ftoyota-logo-hidden-message&psig=AOvVaw2wJxOCzLazBqhtYpANRg__&ust=1678803496375000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKit7MGM2f0CFQAAAAAdAAAAABAJ)
+![bg right 80%](https://cdn.mos.cms.futurecdn.net/WpcTavg99b5XpK6STzSLZ8-970-80.jpg.webp)
 
 
 #### Just-In-Time Produktion
 
+#### Jidoka
+
+<!-- 
+ Just-In-Time: Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt
+
+Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt sind, die Produktion zu stoppen.
+-->
 ---
 
 ![bg right 60%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
