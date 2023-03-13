@@ -162,7 +162,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 
 #### Vorteile
 
-- Effizienz
+* Effizienz
 * Kosten
 * Qualität
 * Kundenzufriedenheit
@@ -180,7 +180,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 ---
 #### Nachteile
 
-- Supply chain
+* Supply chain
 * Engpässen 
 * Weniger Spielraum
 * Produktvielfalt
