@@ -48,7 +48,8 @@ By: Dany, Roger, Christian
 ## Lean Management
 
 Lean Management ist eine Unternehmensphilosophie!
-       eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
+    
+    eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
 
 - Sicht des Kunden
   
@@ -119,7 +120,7 @@ Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt 
 -->
 ---
 
-![bg right 80%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
+![w:32 h:32](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
 
 ## [Toyota 3M Model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
 
