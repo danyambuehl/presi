@@ -107,7 +107,6 @@ KVP
 
 ---
 
-<!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
 
 ## **[Toyota](https://de.wikipedia.org/wiki/Toyota-Produktionssystem)**
@@ -115,9 +114,9 @@ KVP
 
     Der Ursprung von Lean Management liegt in Japan
 
-***Just-In-Time Produktion***
+- ***Just-In-Time Produktion***
 
-***Jidoka***
+- ***Jidoka***
 
 <!-- 
  Just-In-Time: Statt grosse Lagerbestände wurde nur auf das notwendige beschränkt
