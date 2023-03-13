@@ -27,32 +27,61 @@ PollEv.com/ambuehldany762
 
 ![bg down 60%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
+<!-- https://www.polleverywhere.com/free_text_polls/6LmaZLMXB7e6oN2dFPLKf 
+-schlank
+-Einfachheit / in kürzester Zeit
+-Bedürfnisse der Kunden
+-niedrigen Kosten
+-Standardisierung
+-effizienz
+-höchstes Tempo
+-aufs wesentliche reduziert / Verschwendung vermeiden
+-unnötige arbeiten und ineffizient prozesse eliminieren
+-->
+
 ---
 
 <!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+##### Lean Management
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+Lean Management ist eine Unternehmensphilosophie!
+
+Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
+
+Sicht des Kunden
+
+Erfüllung des Kundenwunsches
+Qualität
+Verfügbarkeit
+Preis
+Sicht des Unternehmens
+
+profitabel
+Wettbewerbsfähigkeit
+schlanke Prozesse
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+##### Lean Projekt management
 
-## **[GitHub Pages](https://github.com/pages)**
+![bg right 60%](https://github.com/blro-ep/prj-methoden/blob/main/images/5S.png)
 
-#### Ready to write & host your deck!
 
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+#### Mehrwert für den Kunden schaffen
+
+#### Verschwendung minimieren.
+
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+##### 
+## **[Toyota](https://de.wikipedia.org/wiki/Toyota-Produktionssystem)**
+![bg right 60%](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativebloq.com%2Fnews%2Ftoyota-logo-hidden-message&psig=AOvVaw2wJxOCzLazBqhtYpANRg__&ust=1678803496375000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKit7MGM2f0CFQAAAAAdAAAAABAJ)
 
-## **[Netlify](https://www.netlify.com/)**
 
-#### Ready to write & host your deck!
+#### Just-In-Time Produktion
 
 [![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
 
