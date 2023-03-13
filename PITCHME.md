@@ -13,7 +13,7 @@ _paginate: false
 # <!--fit--> Lean ...
 By: Dany, Roger, Christian
 
-    [Github](https://github.com/blro-ep/prj-methoden)
+[Github Repo](https://github.com/blro-ep/prj-methoden)
 <style scoped>a { color: #36c; }</style>
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
