@@ -146,7 +146,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 
 #### [Swisscom](https://www.linkedin.com/pulse/swisscom-mit-lean-award-2020-ausgezeichnet-thomas-m-walke/?originalSubdomain=de)
 
-Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
+**Seit 10 Jahren setzt Swisscom auf die Lean Philosophie**
 
 - Von 6 verschiedenen Ticketing System
 - Informations overload
