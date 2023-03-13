@@ -47,6 +47,7 @@ By: Dany, Roger, Christian
 ## Lean Management
 
 Lean Management ist eine Unternehmensphilosophie!
+       eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
 
 - Sicht des Kunden
   
@@ -55,15 +56,17 @@ Lean Management ist eine Unternehmensphilosophie!
 <!-- 
 Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
 
-Erfüllung des Kundenwunsches
-Qualität
-Verfügbarkeit
-Preis
-Sicht des Unternehmens
+Kunden
+- Erfüllung des Kundenwunsches
+- Qualität
+- Verfügbarkeit
+- Preis
+- Sicht des Unternehmens
 
-profitabel
-Wettbewerbsfähigkeit
-schlanke Prozesse
+Unternehmen
+- profitabel
+- Wettbewerbsfähigkeit
+- schlanke Prozesse
 -->
 ---
 
@@ -79,12 +82,16 @@ schlanke Prozesse
 <!-- 
 Was sind die Anforderungen des Kunden bezüglich Support?
 - Support gemäss Kundenvereinbarung.
+  
 Wie ist der Supportprozess heute, wie soll dieser in Zukunft aussehen?
 - Eingangskanäle reduziert (Postfächer).
+  
 Massnahmen definieren, um den Soll Zustand zu erreichen
 - Eingangkanäle reduzieren
+  
 Einzelen Steps auf Kunden ausgerichtet
 - Automatisierung
+  
 KVP
 - Team Regeln für Postfach handling
 - Unnötige Emails reduziert
@@ -98,6 +105,7 @@ KVP
 ## **[Toyota](https://de.wikipedia.org/wiki/Toyota-Produktionssystem)**
 ![bg right 80%](https://cdn.toyotaforklift.com/wp-content/uploads/2020/12/17093131/TLM.jpg)
 
+Der Ursprung von Lean Management liegt in Japan
 
 #### Just-In-Time Produktion
 
@@ -110,9 +118,9 @@ Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt 
 -->
 ---
 
-![bg right 60%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
+![bg right 80%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
 
-## [Toyota 3M model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
+## [Toyota 3M Model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
 
 - **Muda**
 - **Mura** 
@@ -120,22 +128,31 @@ Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt 
 
 <!-- 
 Muda: Sind alles Aktivitäten, die keinen Mehrwert haben und somit als Verschwendung gelten.
-Muri: Dies ist auch ein Verlust, weil alles Überbeanspruchung verlangt. Hier ist das Risiko dass man so unter viel mehr Druck steht.
+
+Muri: alles Überbeanspruchung verlangt. Hier ist das Risiko dass man so unter viel mehr Druck steht.
+
 Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen überlastet sind und andere unterlastet.
 -->
 
 ---
 
-![bg right 60%](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
+![bg right 30%](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
 
 #### [Swisscom](https://www.linkedin.com/pulse/swisscom-mit-lean-award-2020-ausgezeichnet-thomas-m-walke/?originalSubdomain=de)
 
 Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
 
+- Von 6 verschiedenen Ticketing System
+- Informations overload
+- Lean Master / Scrum Master
+- ineffiziente Prozesse / Wartezeiten
+
+<!-- 
 - Von 6 verschiedenen Ticketing System -> zu Einer Platform (ITSM) -> zu vereinfacht (Jira)
 - Abgleich Probleme (daily) Informations overload -> kleines Team
 - Lean Master / Scrum Master -> Prozess optimieren / Schnittstelle Auftraggeber -> Entwickler / unterstützung Team
 - ineffiziente Prozesse / Wartezeiten
+-->
 
 ---
 
