@@ -28,6 +28,7 @@ By: Dany, Roger, Christian
 ![bg right 80%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
 <!-- 
+- drug (Husten Syrup)
 -schlank
 -Einfachheit / in kürzester Zeit
 -Bedürfnisse der Kunden
