@@ -18,7 +18,9 @@ By: Dany, Roger, Christian
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
 ---
+
 <iframe src="https://pollev-embeds.com/free_text_polls/tsLbdSnVrd8NqCpKZzQED/respond" width="800px" height="600px"></iframe>
+
 ---
 
 ## **[Was ist Lean? ](PollEv.com/ambuehldany762)**
@@ -50,12 +52,14 @@ PollEv.com/ambuehldany762
 
 Lean Management ist eine Unternehmensphilosophie!
 
-Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
-
-Sicht des Kunden
-Sicht des Unternehmens
+- Sicht des Kunden
+  
+- Sicht des Unternehmens
 
 <!-- 
+
+Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
+
 Erfüllung des Kundenwunsches
 Qualität
 Verfügbarkeit
@@ -70,7 +74,7 @@ schlanke Prozesse
 
 ##### Lean Projekt management
 
-![bg right 60%](https://github.com/blro-ep/prj-methoden/blob/main/images/5S.png)
+![bg right 60%](https://www.rupp-spritzguss.de/wp-content/uploads/2019/11/5S-Grafik-1024x683.jpg)
 
 
 #### Mehrwert für den Kunden schaffen
