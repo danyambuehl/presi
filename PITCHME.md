@@ -126,8 +126,7 @@ Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt 
 -->
 ---
 
-![w:32 h:32](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
-![bg](https://example.com/background.jpg)
+![bg right 80%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
 
 ## [Toyota 3M Model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
 
@@ -144,8 +143,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 -->
 
 ---
-
-![bg right 30%](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
+![w:32 h:32](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
 
 #### [Swisscom](https://www.linkedin.com/pulse/swisscom-mit-lean-award-2020-ausgezeichnet-thomas-m-walke/?originalSubdomain=de)
 
