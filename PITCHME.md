@@ -24,7 +24,7 @@ By: Dany, Roger, Christian
 
 <style scoped>a { color: #36c; }</style>
 
-    **[PollEv.com/ambuehldany762](https://pollev.com/ambuehldany762)**
+**[PollEv.com/ambuehldany762](https://pollev.com/ambuehldany762)**
 
 ![bg right 80%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
