@@ -140,7 +140,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 -->
 
 ---
-![w:64 h:64](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
+![w:128 h:128](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
 
 #### [Swisscom](https://www.linkedin.com/pulse/swisscom-mit-lean-award-2020-ausgezeichnet-thomas-m-walke/?originalSubdomain=de)
 
@@ -149,7 +149,6 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 - Von 6 verschiedenen Ticketing System
 - Informations overload
 - Lean Master / Scrum Master
-- ineffiziente Prozesse / Wartezeiten
 
 <!-- 
 - Von 6 verschiedenen Ticketing System -> zu Einer Platform (ITSM) -> zu vereinfacht (Jira)
@@ -162,22 +161,36 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 
 #### Vorteile
 
+* Effizienz
+* Kosten
+* Qualität
+* Kundenzufriedenheit
+* Flexibilität
+* Wettbewerbsvorteil
+
+<!-- 
 - Effizienz
 - Kosten
 - Qualität
 - Kundenzufriedenheit
 - Flexibilität
 - Wettbewerbsvorteil
-
+-->
 ---
 #### Nachteile
 
+* Supply chain
+* Engpässen 
+* Weniger Spielraum
+* Produktvielfalt
+
+<!-- 
 - Supply chain
 - Engpässen 
 - Weniger Spielraum
 - Produktvielfalt
 
-<!-- 
+Supply Chain
 -Maske 
 -Medikament 
 -Automobilindustrie 
