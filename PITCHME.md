@@ -117,20 +117,57 @@ Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt 
 
 ![bg right 60%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
 
-## **[Toyota 3M model](https://vercel.com/)**
+#### [Toyota 3M model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
 
 Muda
 Mura 
 Muri
 
+<!-- 
+Muda: Sind alles Aktivitäten, die keinen Mehrwert haben und somit als Verschwendung gelten.
+Muri: Dies ist auch ein Verlust, weil alles Überbeanspruchung verlangt. Hier ist das Risiko dass man so unter viel mehr Druck steht.
+Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen überlastet sind und andere unterlastet.
+-->
+
 ---
 
+![bg right 60%](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
+
+#### [Swisscom](https://www.linkedin.com/pulse/swisscom-mit-lean-award-2020-ausgezeichnet-thomas-m-walke/?originalSubdomain=de)
+
+Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
+
+- Von 6 verschiedenen Ticketing System -> zu Einer Platform (ITSM) -> zu vereinfacht (Jira)
+- Abgleich Probleme (daily) Informations overload -> kleines Team
+- Lean Master / Scrum Master -> Prozess optimieren / Schnittstelle Auftraggeber -> Entwickler / unterstützung Team
+- ineffiziente Prozesse / Wartezeiten
+
+---
+
+#### Vorteile
+
+- Effizienz
+- Kosten
+- Qualität
+- Kundenzufriedenheit
+- Flexibilität
+- Wettbewerbsvorteil
+
+---
+#### Nachteile
+
+- Supply chain
+- Engpässen 
+- Weniger Spielraum
+- Produktvielfalt
+
+<!-- 
+-Maske 
+-Medikament 
+-Automobilindustrie 
+-Computerchips
+-->
+
+---
 ### <!--fit--> :ok_hand:
 
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
