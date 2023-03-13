@@ -25,7 +25,7 @@ By: Dany, Roger, Christian
 
 PollEv.com/ambuehldany762
 
-![bg right 40%](https://images.computerwoche.de/bdb/1886339/890x.webp)
+![bg down 60%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
 ---
 
