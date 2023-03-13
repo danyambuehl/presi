@@ -142,7 +142,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 -->
 
 ---
-![w:32 h:32](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
+![w:64 h:64](https://avatars.githubusercontent.com/u/5754111?s=280&v=4)
 
 #### [Swisscom](https://www.linkedin.com/pulse/swisscom-mit-lean-award-2020-ausgezeichnet-thomas-m-walke/?originalSubdomain=de)
 
