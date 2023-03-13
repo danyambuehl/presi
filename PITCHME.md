@@ -10,8 +10,7 @@ _paginate: false
 
 ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Lean
-
+# <!--fit--> Lean ...
 By: Dany, Roger, Christian
 
 <style scoped>a { color: #36c; }</style>
@@ -20,12 +19,13 @@ By: Dany, Roger, Christian
 
 ---
 
-Was ist Lean? 
+## **[Was ist Lean? ](PollEv.com/ambuehldany762)**
+
 <style scoped>a { color: #36c; }</style>
 
 PollEv.com/ambuehldany762
 
-![Marp bg 60%](https://images.computerwoche.de/bdb/1886339/890x.webp)
+![bg right 40%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
 ---
 
