@@ -19,15 +19,11 @@ By: Dany, Roger, Christian
 
 ---
 
-<iframe src="https://pollev-embeds.com/free_text_polls/tsLbdSnVrd8NqCpKZzQED/respond" width="800px" height="600px"></iframe>
-
----
-
-## **[Was ist Lean? ](PollEv.com/ambuehldany762)**
+## **Was ist Lean?**
 
 <style scoped>a { color: #36c; }</style>
 
-PollEv.com/ambuehldany762
+**[PollEv.com/ambuehldany762](https://pollev.com/ambuehldany762)**
 
 ![bg right 80%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
