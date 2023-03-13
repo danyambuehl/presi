@@ -23,7 +23,7 @@ By: Dany, Roger, Christian
 
 <style scoped>a { color: #36c; }</style>
 
-**[PollEv.com/ambuehldany762](https://pollev.com/ambuehldany762)**
+    **[PollEv.com/ambuehldany762](https://pollev.com/ambuehldany762)**
 
 ![bg right 80%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
@@ -144,7 +144,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 
 #### [Swisscom](https://www.linkedin.com/pulse/swisscom-mit-lean-award-2020-ausgezeichnet-thomas-m-walke/?originalSubdomain=de)
 
-**Seit 10 Jahren setzt Swisscom auf die Lean Philosophie**
+    Seit 10 Jahren setzt Swisscom auf die Lean Philosophie
 
 - Von 6 verschiedenen Ticketing System
 - Informations overload
@@ -161,7 +161,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 
 #### Vorteile
 
-* Effizienz
+- Effizienz
 * Kosten
 * Qualität
 * Kundenzufriedenheit
@@ -179,7 +179,7 @@ Mura: Das sind unausgeglichene Verluste wodurch als Folge einige Ressourcen übe
 ---
 #### Nachteile
 
-* Supply chain
+- Supply chain
 * Engpässen 
 * Weniger Spielraum
 * Produktvielfalt
