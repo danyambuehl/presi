@@ -10,11 +10,9 @@ _paginate: false
 
 ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Lean
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
+By: Dany, Roger, Christian
 
 <style scoped>a { color: #36c; }</style>
 
@@ -22,7 +20,12 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+Was ist Lean? 
+<style scoped>a { color: #36c; }</style>
+
+PollEv.com/ambuehldany762
+
+![Marp bg 60%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
 ---
 
