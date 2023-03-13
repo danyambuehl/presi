@@ -18,6 +18,8 @@ By: Dany, Roger, Christian
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
 ---
+<iframe src="https://pollev-embeds.com/free_text_polls/tsLbdSnVrd8NqCpKZzQED/respond" width="800px" height="600px"></iframe>
+---
 
 ## **[Was ist Lean? ](PollEv.com/ambuehldany762)**
 
@@ -25,9 +27,9 @@ By: Dany, Roger, Christian
 
 PollEv.com/ambuehldany762
 
-![bg down 60%](https://images.computerwoche.de/bdb/1886339/890x.webp)
+![bg right 60%](https://images.computerwoche.de/bdb/1886339/890x.webp)
 
-<!-- https://www.polleverywhere.com/free_text_polls/6LmaZLMXB7e6oN2dFPLKf 
+<!-- 
 -schlank
 -Einfachheit / in kürzester Zeit
 -Bedürfnisse der Kunden
@@ -51,7 +53,9 @@ Lean Management ist eine Unternehmensphilosophie!
 Bei der es um eine hocheffiziente Arbeitsorganisation, die alles Überflüssige reduziert oder weglässt.
 
 Sicht des Kunden
+Sicht des Unternehmens
 
+<!-- 
 Erfüllung des Kundenwunsches
 Qualität
 Verfügbarkeit
@@ -61,7 +65,7 @@ Sicht des Unternehmens
 profitabel
 Wettbewerbsfähigkeit
 schlanke Prozesse
-
+-->
 ---
 
 ##### Lean Projekt management
@@ -83,17 +87,15 @@ schlanke Prozesse
 
 #### Just-In-Time Produktion
 
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+![bg right 60%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
 
-## **[Vercel](https://vercel.com/)**
+## **[Toyota 3M model](https://vercel.com/)**
 
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+Muda
+Mura 
+Muri
 
 ---
 
