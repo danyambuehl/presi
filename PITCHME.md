@@ -44,7 +44,7 @@ By: Dany, Roger, Christian
 <!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
 
-##### Lean Management
+## Lean Management
 
 Lean Management ist eine Unternehmensphilosophie!
 
@@ -67,7 +67,7 @@ schlanke Prozesse
 -->
 ---
 
-##### Lean Projekt management
+## Lean Projekt management
 
 ![bg right 80%](https://www.rupp-spritzguss.de/wp-content/uploads/2019/11/5S-Grafik-1024x683.jpg)
 
@@ -95,7 +95,6 @@ KVP
 
 ---
 
-##### 
 ## **[Toyota](https://de.wikipedia.org/wiki/Toyota-Produktionssystem)**
 ![bg right 80%](https://cdn.toyotaforklift.com/wp-content/uploads/2020/12/17093131/TLM.jpg)
 
@@ -113,11 +112,11 @@ Jidoka: bedeutet, dass Menschen, sobald ein Problem im Prozess auftritt, befugt 
 
 ![bg right 60%](https://github.com/blro-ep/prj-methoden/raw/main/images/3M.png)
 
-#### [Toyota 3M model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
+## [Toyota 3M model](https://www.toyotaforklift.com/blog/what-is-toyota-lean-management)
 
-Muda
-Mura 
-Muri
+- **Muda**
+- **Mura** 
+- **Muri**
 
 <!-- 
 Muda: Sind alles Aktivitäten, die keinen Mehrwert haben und somit als Verschwendung gelten.
